@@ -1,0 +1,25 @@
+[
+  {
+    "name": "t",
+    "date": "29-07-2024",
+    "location": "t",
+    "attendees": []
+  },
+  {
+    "name": "b",
+    "date": "29-07-2024",
+    "location": "t",
+    "attendees": []
+  },
+  {
+    "name": "Bangerrrr",
+    "date": "30-06-24",
+    "location": "delhi",
+    "attendees": [
+      {
+        "name": "kashish",
+        "email": "kashish@gmail.com"
+      }
+    ]
+  }
+]

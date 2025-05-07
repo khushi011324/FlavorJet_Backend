@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlavorJet Event Registration</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="event">FlavorJet Event Registration</h1>
+
+    <div id="registration">
+        <h2 class="eventRegister">Register for an Event</h2>
+        <form id="registerForm">
+            <label for="registerEventName">Event Name:</label>
+            <input type="text" id="registerEventName" required>
+            <label for="registerUserName">Your Name:</label>
+            <input type="text" id="registerUserName" required>
+            <label for="registerUserEmail">Your Email:</label>
+            <input type="email" id="registerUserEmail" required>
+            <button type="submit">Register</button>
+        </form>
+
+        <h2>Cancel Registration</h2>
+        <form id="cancelForm">
+            <label for="cancelEventName">Event Name:</label>
+            <input type="text" id="cancelEventName" required>
+            <label for="cancelUserEmail">Your Email:</label>
+            <input type="email" id="cancelUserEmail" required>
+            <button type="submit">Cancel Registration</button>
+        </form>
+    </div>
+
+    <script src="scriptk.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+[
+  {
+    "productId": "1101",
+    "review": "\"Absolutely loved this product! The quality is excellent and it exceeded my expectations. Highly recommended!\"",
+    "rating": "5",
+    "username": "official_tanya_01"
+  },
+  {
+    "productId": "1297",
+    "review": "The app  is okay, but it took longer than expected to arrive. The quality is decent, but there’s room for improvement.\"",
+    "rating": "4",
+    "username": "chinar_gupta"
+  },
+  {
+    "productId": "1234",
+    "review": "good",
+    "rating": "4",
+    "username": "erbh"
+  },
+  {
+    "productId": "0000",
+    "review": "worst",
+    "rating": "1",
+    "username": "ooooo"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "title": "Tandoori Chicken ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "C:\\Users\\Admin\\OneDrive\\Desktop\\nodejs\\food\\public\\image\\dish8.png"
+  },
+  {
+    "id": 2,
+    "title": "Masala Dosa ",
+    "chef": "Ayodfi at South Indian",
+    "content": "At Shree Kerala, Chef Ayodgi brings you his famous Masala Dosa, a South Indian classic loved by many. This dish features a crispy, golden-brown crepe made from a fermented rice and lentil batter, filled with a spiced potato mixture sautéed with mustard seeds, curry leaves, and turmeric. The dosa is served with tangy coconut chutney and a hearty bowl of sambar, offering a complete and authentic South Indian culinary experience. If you're looking to enjoy a true taste of South India, Chef Ayodgi's Masala Dosa at Shree Kerala is a must-try!.",
+    "imageUrl": "C:\\Users\\Admin\\OneDrive\\Desktop\\nodejs\\food\\public\\image\\dosa2.png"
+  },
+  {
+    "id": 3,
+    "title": "Chocolate pizza",
+    "chef": "Chef Tanya",
+    "content": "At Cakes and Pastries, Chef Shivesh Bhatia delights with his famous Chocolate Cake and Cookies. The chocolate cake is rich, moist, and layered with a velvety chocolate ganache, making every bite a heavenly experience for chocolate lovers. Paired with his perfectly baked cookies, which are crispy on the outside and soft inside, this combination is a treat you don’t want to miss. If you’re craving something sweet, Chef Shivesh Bhatia’s creations at Cakes and Pastries are the perfect indulgence!.",
+    "imageUrl": "C:\\Users\\Admin\\OneDrive\\Desktop\\nodejs\\food\\public\\image\\cake.png"
+  },
+  {
+    "id": 5,
+    "title": "Sooji Cutlet",
+    "chef": "Chef Ranveer Brar",
+    "content": "At Indian Chart, Chef Ranveer Brar introduces his delightful Sooji Cutlet, a crispy and flavorful snack that's perfect for any time of the day. Made from semolina (sooji), these cutlets are spiced to perfection and pan-fried until golden brown, giving them a satisfying crunch. Paired with tangy chutneys, Chef Brar’s Sooji Cutlet is a delicious twist on traditional Indian street food that’s sure to please your taste buds. If you’re in the mood for a light yet tasty treat, this dish at Indian Chart is a must-try!.",
+    "imageUrl": "C:\\Users\\Admin\\OneDrive\\Desktop\\nodejs\\food\\public\\image\\cutlet.png"
+  },
+  {
+    "id": 6,
+    "title": "Indian platter",
+    "chef": "chef Atul Kochar",
+    "content": "At Benares, Chef Atul Kochhar’s Butter Chicken is a creamy, indulgent dish with tender chicken pieces cooked in a rich tomato and butter sauce. Known for its well-balanced blend of spices and a velvety texture, this dish is a favorite among those who enjoy a hearty and flavorful curry. Serve it with naan or basmati rice for a satisfying meal",
+    "imageUrl": "C:\\Users\\Admin\\OneDrive\\Desktop\\nodejs\\food\\public\\image\\dish6.png"
+  },
+  {
+    "id": 7,
+    "title": "Prawn Curry ",
+    "chef": "Chef Ajay Chopra",
+    "content": "At The Yellow Chilli, Chef Ajay Chopra’s Prawn Curry is a delightful seafood dish with juicy prawns simmered in a fragrant coconut-based curry. The dish is enhanced with spices and herbs, offering a perfect balance of heat and flavor. It pairs beautifully with steamed rice or appams, making it a great choice for seafood lovers!",
+    "imageUrl": "C:\\Users\\Admin\\OneDrive\\Desktop\\nodejs\\food\\public\\image\\dish7.png"
+  },
+  {
+    "id": 8,
+    "title": "Palak Paneer",
+    "chef": " Chef Vikas Khanna",
+    "content": "At the Michelin-starred restaurant, Chef Vikas Khanna’s Palak Paneer is a nutritious and flavorful dish featuring paneer cubes in a spiced spinach gravy. This classic North Indian vegetarian dish is both comforting and wholesome, ideal for pairing with roti or paratha. Chef Khanna’s recipe brings out the best in this beloved dish with a rich and vibrant green sauce.!",
+    "imageUrl": "C:\\Users\\Admin\\OneDrive\\Desktop\\nodejs\\food\\public\\image\\dish8.png"
+  },
+  {
+    "id": 9,
+    "title": "Dal Makhani",
+    "chef": " Chef Tanya Bansal",
+    "content": "At The Great Indian Kitchen, Chef Harpal Singh Sokhi’s Dal Makhani is a creamy, slow-cooked lentil dish that is both rich and hearty. Made with black lentils and kidney beans, this dish is simmered in a buttery tomato sauce and seasoned with aromatic spices. It’s a staple in Indian cuisine and is best enjoyed with a side of rice or naan!",
+    "imageUrl": "C:\\Users\\Admin\\OneDrive\\Desktop\\nodejs\\food\\public\\image\\dish15.png"
+  },
+  {
+    "id": 10,
+    "title": "amzaing bloggg",
+    "chef": " Chef shagun",
+    "content": "At The Great Indian Kitchen, Chef Harpal Singh Sokhi’s Dal Makhani is a creamy, slow-cooked lentil dish that is both rich and hearty. Made with black lentils and kidney beans, this dish is simmered in a buttery tomato sauce and seasoned with aromatic spices. It’s a staple in Indian cuisine and is best enjoyed with a side of rice or naan!",
+    "imageUrl": "C:\\Users\\Admin\\OneDrive\\Desktop\\nodejs\\food\\public\\image\\dish11.png"
+  },
+  {
+    "id": 11,
+    "title": "abc",
+    "chef": " Chef deflkjhgfdsasdfgh",
+    "content": "At The Great Indian Kitchen, Chef Harpal Singh Sokhi’s Dal Makhani is a creamy, slow-cooked lentil dish that is both rich and hearty. Made with black lentils and kidney beans, this dish is simmered in a buttery tomato sauce and seasoned with aromatic spices. It’s a staple in Indian cuisine and is best enjoyed with a side of rice or naan!",
+    "imageUrl": "C:\\Users\\Admin\\OneDrive\\Desktop\\nodejs\\food\\public\\image\\chef10.png"
+  },
+  {
+    "id": 12,
+    "title": "Masala Dosa",
+    "chef": " Chef Mansii Gupta",
+    "content": "At The Great Indian Kitchen, Chef Harpal Singh Sokhi’s Dal Makhani is a creamy, slow-cooked lentil dish that is both rich and hearty. Made with black lentils and kidney beans, this dish is simmered in a buttery tomato sauce and seasoned with aromatic spices. It’s a staple in Indian cuisine and is best enjoyed with a side of rice or naan!",
+    "imageUrl": "C:\\Users\\Admin\\OneDrive\\Desktop\\nodejs\\food\\public\\image\\dish15.png"
+  },
+  {
+    "id": 13,
+    "title": "Tandoori Chicken ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "https://drive.google.com/file/d/1UIJ2ZR7ASxpNJGqiqZow8UJYrCyBqx4E/view"
+  },
+  {
+    "id": 14,
+    "title": "Tandoori Chicken ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 15,
+    "title": "Tandoori Chicken ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "https://drive.google.com/file/d/1dTWwikeDUIFyEpXIAxKaBdYooGHS0kzs/view?usp=sharing"
+  },
+  {
+    "id": 16,
+    "title": "Tandoori Chicken ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "https://drive.google.com/file/d/1mdDKhXOuDCFYOzCom7S5nJC6iJEOj8Vc/preview"
+  },
+  {
+    "id": 17,
+    "title": "Tandoori Chicken ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "https://drive.google.com/file/d/1mdDKhXOuDCFYOzCom7S5nJC6iJEOj8Vc"
+  },
+  {
+    "id": 18,
+    "title": "Tandoori Chicken ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "https://drive.google.com/file/d/1mdDKhXOuDCFYOzCom7S5nJC6iJEOj8Vc"
+  },
+  {
+    "id": 19,
+    "title": "Tandoori Chicken ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1mdDKhXOuDCFYOzCom7S5nJC6iJEOj8Vc"
+  },
+  {
+    "id": 20,
+    "title": "Tandoori Chicken ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1tL0uzZsFRVaOwLENZohnrNhDtZqGNnGF"
+  },
+  {
+    "id": 21,
+    "title": "Tandoori Chicken ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1tL0uzZsFRVaOwLENZohnrNhDtZqGNnGF"
+  },
+  {
+    "id": 22,
+    "title": "T ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1tL0uzZsFRVaOwLENZohnrNhDtZqGNnGF"
+  },
+  {
+    "id": 23,
+    "title": "Tanya bansal ",
+    "chef": "Chef Harpal Singh Sokhi",
+    "content": "At Sher-a-Punjab, Chef Harpal Singh Sokhi presents his famous Tandoori Chicken, a dish that has become a favorite among food enthusiasts. Marinated with a blend of spices like cumin, coriander, and Kashmiri chili, the chicken is slow-cooked in a traditional tandoor, giving it a perfect balance of smoky and tender flavors. Chef Sokhi’s unique touch—a sprinkle of lemon juice and fresh coriander—elevates the dish, making it a must-try for anyone who loves authentic Indian cuisine. Served with a side of tangy mint chutney and fresh salad, this Tandoori Chicken is a complete culinary experience that captures the essence of Indian flavors.",
+    "imageUrl": "https://drive.google.com/thumbnail?id=1tL0uzZsFRVaOwLENZohnrNhDtZqGNnGF"
+  }
+]
